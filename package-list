@@ -1,0 +1,13 @@
+ch.epfl.sweng.smarteat.gui.activities
+ch.epfl.sweng.smarteat.gui.activities.super_activites
+ch.epfl.sweng.smarteat.gui.adapters
+ch.epfl.sweng.smarteat.gui.controllers
+ch.epfl.sweng.smarteat.gui.fragments
+ch.epfl.sweng.smarteat.gui.views
+ch.epfl.sweng.smarteat.models
+ch.epfl.sweng.smarteat.models.authentification
+ch.epfl.sweng.smarteat.services
+ch.epfl.sweng.smarteat.tools
+ch.epfl.sweng.smarteat.tools.network
+ch.epfl.sweng.smarteat.tools.network.epfl_restaurants_api
+ch.epfl.sweng.smarteat.tools.network.firebase
